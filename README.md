@@ -1,13 +1,12 @@
 <h1 align="center">Hi 🐋, I'm Karl Yang</h1>
-<h3 align="center">A beginner of frontend-development from Taiwan</h3>
+<h3 align="center">A frontend developer from Taiwan</h3>
 
-- 🦖 I’m currently working on [f2e-salary](https://ccok12345678.github.io/f2e-salary/#/)
+- 🦖 I’m currently looking for a frontend development job
 
 - 😶 I’m currently learning **React, Vue**
 
 - 📨 How to reach me **ccok12345678@hotmail.com**
 
-- 🐡 Fun fact **I've got a master's degree of Taiwan Literature**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
