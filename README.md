@@ -1,9 +1,7 @@
 <h1 align="center">Hi 🐋, I'm Karl Yang</h1>
 <h3 align="center">A frontend developer from Taiwan</h3>
 
-- 🦖 I’m currently looking for a frontend development job
-
-- 😶 I’m currently learning **React, Vue**
+- 😶 I’m currently learning **Angular, C#**
 
 - 📨 How to reach me **ccok12345678@hotmail.com**
 
